@@ -1,0 +1,93 @@
+body{
+    background: #767de4;
+}
+
+.content{
+    background: white;
+    width: 70%;
+    max-width: 1200px;
+    height: 70%;
+    margin: 20px 30px;
+    border: 10px solid black;
+    padding: 50px;
+    margin:20px auto;
+    display:block;
+}
+
+.form{
+    text-align: right;
+}
+
+.form > input{
+    border: rgb(197, 195, 195) solid 1px;
+    background: white;
+    padding: 0.5em;
+}
+
+h1{
+    text-align: center;
+    font-size: 3em;
+    font-weight: 300;
+}
+
+.icon{
+    width: 70px;
+    vertical-align: top;
+    color: white;
+    text-align: center;
+}
+
+.ico{
+    width: 27px;
+    height: 27px;
+    background: black;
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.text1{
+   font-weight: bold; 
+   line-height: 1.4em;
+}
+
+.text2{
+    margin-top: 20px;
+}
+
+i{
+    font-size: 1.5em;
+}
+
+.fa-clock{
+    font-size: 0.8em;
+}
+
+.fa-heart{
+    font-size: 0.8em;
+}
+
+.date{
+    font-size: 0.8em;
+    margin-top: 20px;
+    color: rgb(102, 102, 102);
+}
+
+.fecha{
+    margin-right: 15px;
+}
+
+.red{
+    color: #952e1d;
+}
+
+table{
+    border-spacing : 0 0;
+    border-collapse : collapse;
+    font-family: sans-serif;
+}
+
+td{
+    border-top: 1px solid rgb(175, 175, 175);
+    padding-top: 25px;
+    padding-bottom: 60px;
+}
